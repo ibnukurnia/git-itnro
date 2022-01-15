@@ -1,0 +1,12 @@
+git adalah sebuah system control version untuk mempermudah dokumntasi pada program.
+
+
+manfaat git :
+1.mempermudah dokumentasi program.
+2.mempermudah bila terjadi updat pada program.
+3.mempermudah tracking program.
+
+platform git:
+1.Github
+2.Gitlab
+3.Bitbucket
